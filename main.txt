@@ -1,0 +1,9 @@
+mport java.util.*;
+{
+publci static void main(String args[])
+{
+public class Padma{
+System.out.println("This is for practice);
+}
+}
+
